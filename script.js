@@ -47,7 +47,7 @@ for (var i = 0; i < navLinks.length; i++) {
 const textThree = document.querySelector(".text-three");
 
       // The array of positions to cycle through
-      const positions = ["Web Developer", "Graphics Designer", "UI/UX Designer"];
+      const positions = ["Web Developer", "Graphic Designer", "UI/UX Designer"];
       let positionIndex = 0;
 
       // Function to type the text
